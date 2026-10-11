@@ -321,7 +321,7 @@ def build_pdf(filename: Path):
         ],
         [
             Paragraph("<b>Inference Engine:</b> Depth-Bounded PC Algorithm (depth=2, Fisher-Z)", style_table_cell),
-            Paragraph("<b>Web Application:</b> Streamlit v1.65+ on http://localhost:8501", style_table_cell),
+            Paragraph("<b>Live Cloud Demo:</b> aml-causal-discovery-7777.streamlit.app", style_table_cell),
         ]
     ]
     t_meta = Table(meta_box_data, colWidths=[printable_w * 0.55, printable_w * 0.45])

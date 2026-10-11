@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Kaggle Cloud](https://img.shields.io/badge/Compute-Kaggle%20Cloud-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
-[![Streamlit App](https://img.shields.io/badge/Dashboard-Streamlit%20v1.65-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aml-causal-discovery-7777.streamlit.app/)
 [![ChEMBL API](https://img.shields.io/badge/Pharmacology-ChEMBL%20API-009688.svg)](https://www.ebi.ac.uk/chembl/)
 [![Causal-Learn](https://img.shields.io/badge/Causal%20Inference-causal--learn-blueviolet.svg)](https://github.com/py-why/causal-learn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,6 +10,8 @@
 ---
 
 ### Executive Abstract
+
+🚀 **Live Interactive Demo:** [https://aml-causal-discovery-7777.streamlit.app/](https://aml-causal-discovery-7777.streamlit.app/)
 
 Standard transcriptomic correlation methods and co-expression networks (e.g., WGCNA) suffer from severe confounding: they cannot distinguish driver oncogenes from passenger genes, conflate bidirectional correlation with causation, and generate false-positive therapeutic targets. In heterogeneous hematologic malignancies like **Acute Myeloid Leukemia (AML)**, identifying the genuine upstream orchestrators of leukemic blast survival requires constraint-based causal graphical modeling.
 
@@ -224,13 +226,15 @@ Translational pharmacology mapping cross-referenced the top 10 master regulators
 
 ## 🖥️ Interactive Streamlit Dashboard Guide
 
+> 🚀 **Live Interactive Demo:** [https://aml-causal-discovery-7777.streamlit.app/](https://aml-causal-discovery-7777.streamlit.app/)
+
 The web application ([`dashboard/app.py`](dashboard/app.py)) provides an interactive graphical interface for clinical researchers and computational biologists:
 
 ```bash
 # Launch the dashboard locally
 streamlit run dashboard/app.py
 ```
-Open your web browser at **`http://localhost:8501`**.
+Open your web browser at **`http://localhost:8501`** (or access the hosted cloud instance directly at [aml-causal-discovery-7777.streamlit.app](https://aml-causal-discovery-7777.streamlit.app/)).
 
 ### Dashboard Modules:
 1. **🌐 Causal Network Explorer:** Force-directed graph powered by PyVis physics simulation. Filter edges by minimum causal out-degree and bootstrap stability frequency ($\ge 60\%$). Instant node search highlighting upstream controllers and downstream projections.
@@ -333,8 +337,10 @@ python scripts/subpopulation_causal_wiring.py
 
 ### 6. Launch Interactive Clinical Dashboard
 ```bash
+# Launch dashboard locally
 streamlit run dashboard/app.py
 ```
+> 🚀 **Live Interactive Demo:** [https://aml-causal-discovery-7777.streamlit.app/](https://aml-causal-discovery-7777.streamlit.app/) (Access immediately without local setup).
 
 ---
 
