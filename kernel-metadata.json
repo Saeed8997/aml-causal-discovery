@@ -1,0 +1,10 @@
+{
+  "id": "metanoiam/aml-causal-drug-pipeline",
+  "title": "AML Causal Drug Pipeline",
+  "code_file": "causal_discovery_pipeline.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true"
+}

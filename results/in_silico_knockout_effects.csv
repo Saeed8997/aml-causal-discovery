@@ -1,0 +1,32 @@
+Knockout_Gene,Target_Gene,Causal_Distance,Effect_Type,Baseline_Mean,Perturbed_Mean,Absolute_Shift,Percent_Delta,Z_Score_Shift,Response_Direction
+NPM1,MRPL42,1,Direct,0.2579,0.0968,-0.1611,-62.47,-0.251,Downregulation
+NAMPT,RGS2,1,Direct,0.6085,0.5533,-0.0552,-9.08,-0.053,Downregulation
+NAMPT,VCAN,1,Direct,0.6719,0.6355,-0.0364,-5.42,-0.03,Downregulation
+NAMPT,NPM1,2,Indirect Cascade,2.374,2.3781,0.0041,0.17,0.004,Upregulation
+NAMPT,THBS1,2,Indirect Cascade,0.099,0.096,-0.003,-3.07,-0.006,Downregulation
+NAMPT,MRPL42,3,Indirect Cascade,0.2579,0.2582,0.0003,0.11,0.0,Upregulation
+S100A9,NPM1,1,Direct,2.374,2.5867,0.2127,8.96,0.187,Upregulation
+S100A9,THBS1,1,Direct,0.099,0.012,-0.087,-87.85,-0.181,Downregulation
+S100A9,VCAN,1,Direct,0.6719,0.3228,-0.3491,-51.96,-0.291,Downregulation
+S100A9,MRPL42,2,Indirect Cascade,0.2579,0.2723,0.0144,5.6,0.022,Upregulation
+S100A9,RGS2,2,Indirect Cascade,0.6085,0.5603,-0.0483,-7.93,-0.046,Downregulation
+RNASE2,CD69,1,Direct,0.5208,0.6555,0.1347,25.86,0.137,Upregulation
+RNASE2,DEFB1,1,Direct,0.0536,0.0088,-0.0448,-83.56,-0.128,Downregulation
+RNASE2,RNASE3,1,Direct,0.1848,0.0691,-0.1156,-62.59,-0.202,Downregulation
+RNASE2,S100A8,1,Direct,1.7353,1.1782,-0.5571,-32.1,-0.31,Downregulation
+RNASE2,S100A9,1,Direct,1.9723,1.4721,-0.5002,-25.36,-0.267,Downregulation
+RNASE2,SRGN,1,Direct,2.4745,2.0429,-0.4316,-17.44,-0.297,Downregulation
+RNASE2,CXCL8,2,Indirect Cascade,0.3029,0.3183,0.0153,5.07,0.018,Upregulation
+RNASE2,DNMT3A,2,Indirect Cascade,0.1804,0.1898,0.0094,5.2,0.017,Upregulation
+RNASE2,ELANE,2,Indirect Cascade,0.2715,0.2047,-0.0668,-24.6,-0.09,Downregulation
+RNASE2,NPM1,2,Indirect Cascade,2.374,2.4384,0.0644,2.71,0.057,Upregulation
+RNASE2,RGS2,2,Indirect Cascade,0.6085,0.5433,-0.0653,-10.73,-0.062,Downregulation
+RNASE2,THBS1,2,Indirect Cascade,0.099,0.0741,-0.025,-25.22,-0.052,Downregulation
+RNASE2,VCAN,2,Indirect Cascade,0.6719,0.4902,-0.1817,-27.04,-0.151,Downregulation
+RNASE2,MRPL42,3,Indirect Cascade,0.2579,0.2622,0.0044,1.69,0.007,Upregulation
+FCN1,NPM1,1,Direct,2.374,2.4148,0.0407,1.72,0.036,Upregulation
+FCN1,RGS2,1,Direct,0.6085,0.5698,-0.0388,-6.37,-0.037,Downregulation
+FCN1,RUNX1,1,Direct,0.8186,0.8604,0.0418,5.11,0.04,Upregulation
+FCN1,THBS1,1,Direct,0.099,0.0633,-0.0357,-36.05,-0.074,Downregulation
+FCN1,VCAN,1,Direct,0.6719,0.6369,-0.035,-5.2,-0.029,Downregulation
+FCN1,MRPL42,2,Indirect Cascade,0.2579,0.2606,0.0028,1.07,0.004,Upregulation

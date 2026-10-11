@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="directed"><node id="CXCL8"/>
+<node id="S100A9"/>
+<node id="RGS2"/>
+<node id="RNASE2"/>
+<node id="MEIS1"/>
+<node id="ZNF257"/>
+<node id="C2orf42"/>
+<node id="ZNF618"/>
+<node id="CYB5D2"/>
+<node id="TMCC3"/>
+<node id="S100A8"/>
+<node id="LGALS2"/>
+<node id="PPP1R3D"/>
+<node id="FCER1A"/>
+<node id="DNAJC14"/>
+<node id="FLT3"/>
+<node id="FCN1"/>
+<node id="PRG2"/>
+<node id="ELANE"/>
+<node id="THBS1"/>
+<node id="GNLY"/>
+<node id="TPSB2"/>
+<node id="G0S2"/>
+<node id="NAMPT"/>
+<node id="BCL2"/>
+<node id="MTMR7"/>
+<node id="RUNX1"/>
+<node id="LMO4"/>
+<node id="CLC"/>
+<node id="AREG"/>
+<node id="CENPF"/>
+<node id="HOXA9"/>
+<node id="MS4A2"/>
+<node id="EPX"/>
+<node id="CLDN15"/>
+<node id="HPGD"/>
+<node id="DEFB1"/>
+<node id="RNASE3"/>
+<node id="CEBPA"/>
+<node id="VCAN"/>
+<node id="HBB"/>
+<node id="SRGN"/>
+<node id="TICAM2"/>
+<node id="HIST1H1B"/>
+<node id="DNMT3A"/>
+<node id="TPSAB1"/>
+<node id="NUDT6"/>
+<node id="LARP4"/>
+<node id="CD69"/>
+<node id="EPSTI1"/>
+<node id="NPM1"/>
+<node id="SPP1"/>
+<node id="MRPL42"/>
+<node id="INPP5E"/>
+<node id="HDC"/>
+<edge source="S100A9" target="THBS1">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="S100A9" target="VCAN">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="S100A9" target="NPM1">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="RGS2" target="THBS1">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="RNASE2" target="SRGN">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="RNASE2" target="CD69">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="RNASE2" target="RNASE3">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="RNASE2" target="DEFB1">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="RNASE2" target="S100A9">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="RNASE2" target="S100A8">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="C2orf42" target="TICAM2">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="ZNF618" target="HOXA9">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="TMCC3" target="ZNF257">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="S100A8" target="RGS2">
+  <data key="d0">0.96</data>
+</edge>
+<edge source="S100A8" target="VCAN">
+  <data key="d0">0.92</data>
+</edge>
+<edge source="S100A8" target="SRGN">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="LGALS2" target="RGS2">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="LGALS2" target="S100A9">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="LGALS2" target="VCAN">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="LGALS2" target="CD69">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="PPP1R3D" target="ELANE">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="FCER1A" target="FLT3">
+  <data key="d0">0.96</data>
+</edge>
+<edge source="FCN1" target="NPM1">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="FCN1" target="THBS1">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="FCN1" target="VCAN">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="FCN1" target="RGS2">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="FCN1" target="RUNX1">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="PRG2" target="CLC">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="ELANE" target="DEFB1">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="ELANE" target="RNASE3">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="GNLY" target="ZNF257">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="GNLY" target="NUDT6">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="TPSB2" target="HPGD">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="TPSB2" target="MS4A2">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="G0S2" target="RGS2">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="G0S2" target="FCN1">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="G0S2" target="VCAN">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="NAMPT" target="RGS2">
+  <data key="d0">0.92</data>
+</edge>
+<edge source="NAMPT" target="VCAN">
+  <data key="d0">0.76</data>
+</edge>
+<edge source="BCL2" target="CEBPA">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="MTMR7" target="NAMPT">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="MS4A2" target="LMO4">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="MS4A2" target="HPGD">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="EPX" target="RNASE3">
+  <data key="d0">0.76</data>
+</edge>
+<edge source="VCAN" target="RGS2">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="VCAN" target="NPM1">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="HBB" target="CEBPA">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="HBB" target="DNAJC14">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="SRGN" target="ELANE">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="SRGN" target="RNASE3">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="HIST1H1B" target="CENPF">
+  <data key="d0">0.96</data>
+</edge>
+<edge source="HIST1H1B" target="CD69">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="HIST1H1B" target="DNAJC14">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="TPSAB1" target="CXCL8">
+  <data key="d0">0.88</data>
+</edge>
+<edge source="TPSAB1" target="S100A9">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="TPSAB1" target="HPGD">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="TPSAB1" target="MS4A2">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="TPSAB1" target="TPSB2">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="LARP4" target="AREG">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="CD69" target="CXCL8">
+  <data key="d0">0.92</data>
+</edge>
+<edge source="CD69" target="DNMT3A">
+  <data key="d0">0.84</data>
+</edge>
+<edge source="EPSTI1" target="CYB5D2">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="NPM1" target="MRPL42">
+  <data key="d0">0.96</data>
+</edge>
+<edge source="SPP1" target="MEIS1">
+  <data key="d0">0.76</data>
+</edge>
+<edge source="SPP1" target="CLDN15">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="INPP5E" target="HPGD">
+  <data key="d0">0.6</data>
+</edge>
+<edge source="HDC" target="CXCL8">
+  <data key="d0">0.92</data>
+</edge>
+<edge source="HDC" target="LMO4">
+  <data key="d0">0.72</data>
+</edge>
+<edge source="HDC" target="MS4A2">
+  <data key="d0">0.72</data>
+</edge>
+</graph></graphml>
